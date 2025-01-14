@@ -1,5 +1,5 @@
 spring:
-  spplication:
+  application:
       name: dev-config
 eureka:
   client:
